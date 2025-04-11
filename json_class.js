@@ -1,8 +1,6 @@
-
-
-    let ob = {
-    "nome": "Danilo",
-    "idade": 39
+let ob = {
+  nome: "eri",
+  idade: 28,
 };
 
 console.log(ob);
